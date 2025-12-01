@@ -22,7 +22,8 @@ This interactive dashboard analyzes sales performance using Excel pivot tables, 
 - `dashboard_screenshot.png` – Preview  
 
 ## 🔹 Dashboard Preview
-*(Insert dashboard screenshot here)*
+![Screenshot 2025-11-29 195636](https://github.com/user-attachments/assets/6384becc-4385-43c4-b4f2-84b37a5753c2)
+
 
 ---
 
